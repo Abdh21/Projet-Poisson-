@@ -8,7 +8,7 @@ Projet de modélisation et texturisation d'un poisson 3D réalisé en C++ avec C
 > Code::Blocks
 
 ## Aperçu rendu finale
-
+![Aperçu du poisson](Poisson.jpg)
 
 ## Installation
 1- Ouvrir le fichier .cbp avec Code::Blocks
